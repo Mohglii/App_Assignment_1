@@ -1,5 +1,3 @@
-Mo
-
 **App Assignment 1: Tip Calculator** 
 Seaborns Bar and Grill Tip Caluclater
 
