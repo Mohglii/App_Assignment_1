@@ -3,7 +3,7 @@ Mo
 **App Assignment 1: Tip Calculator** 
 Seaborns Bar and Grill Tip Caluclater
 
-This code will calculate the total amount with a tip percentage. I will allow the user to split amount. 
+This code will calculate the total amount with a tip percentage. It will allow the user to split amount. 
 
 how to use:
  
